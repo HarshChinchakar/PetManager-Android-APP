@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pet Manager</string>
+    <string name="app_name">PawSense</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
 
